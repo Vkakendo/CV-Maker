@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Optimizer & Designer",
+  "description": "Expert-level ATS resume optimizer and CV designer aligning keywords, applying Google's XYZ formula, and generating clean ATS-ready formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
